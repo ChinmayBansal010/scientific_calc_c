@@ -27,6 +27,12 @@ The calculator supports the following operations:
 
 5. **Factorial Calculation**
    - Computes the factorial of an integer
+  
+## Output Example
+
+Here is a screenshot of the calculator in action:
+
+![Calculator Output](output.png)
 
 ## How to Use
 
